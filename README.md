@@ -51,9 +51,11 @@ Third-year Computer Science student with a strong foundation in **Data Science a
 - Advanced deep learning architectures  
 - Natural Language Processing  
 - MERN stack for full-stack development
+- Software Development
 
 ---
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/aarchie24  
 - GitHub: https://github.com/Aarchie24
+- Gmail: archita.panda004@gmail.com
